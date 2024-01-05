@@ -8,7 +8,7 @@ terraform {
 }
 provider "aws" {
   region     = "us-east-1"
-  access_key = "AKIA3PM5N335OLUZHB77"
-  secret_key = "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"
+  access_key = "AK"
+  secret_key = "P"
   profile    = "vscode"
 }
